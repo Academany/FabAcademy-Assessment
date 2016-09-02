@@ -12,7 +12,7 @@
 * [Computer-Controlled Machining](computer-controlled_machining.md)
 * [Embedded Programming](embedded_programming.md)
 * [Mechanical Design, Machine Design](mechanical_design,_machine_design.md)
-* Input Devices
+* [Input Devices](input_devices.md)
 * Moulding and Casting
 * Moulding and Casting
 * Composites
