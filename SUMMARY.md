@@ -17,7 +17,7 @@
 * Composites
 * Embedded Networking and Communications
 * Interface and Application Programming
-* Apoplications and Implications
+* Applications and Implications
 * Invention, Intellectual Property and Business Models
 * Project Development
 
