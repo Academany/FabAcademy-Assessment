@@ -9,7 +9,7 @@
 * [Electronics Production](electronics_production.md)
 * [3D Scanning and Printing](3d_scanning_and_printing.md)
 * [Electronics Design](electronics_design.md)
-* Computer-Controlled Machining
+* [Computer-Controlled Machining](computer-controlled_machining.md)
 * Embedded Programming
 * Mechanical Design, Machine Design
 * Input Devices
