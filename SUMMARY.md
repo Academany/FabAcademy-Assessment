@@ -17,4 +17,5 @@
 * Embedded Networking and Communications
 * Interface and Application Programming
 * Apoplications and Implications
+* Invention, Intellectual Property and Business Models
 
