@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [General Essentials](general_essentials.md)
-* Commercial Board Policy
+* [Commercial Board Policy](commercial_board_policy.md)
 
