@@ -9,4 +9,5 @@
 * Electronics Production
 * 3D Scanning and Printing
 * Embedded Programming
+* Mechanical Design, Machine Design
 
