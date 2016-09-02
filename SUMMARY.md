@@ -7,7 +7,7 @@
 * [Computer-Aided Design](computer-aided_design.md)
 * [Computer-Controlled Cutting](computer-controlled_cutting.md)
 * [Electronics Production](electronics_production.md)
-* 3D Scanning and Printing
+* [3D Scanning and Printing](3d_scanning_and_printing.md)
 * Embedded Programming
 * Mechanical Design, Machine Design
 * Input Devices
