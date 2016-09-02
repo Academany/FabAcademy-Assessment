@@ -1,35 +1,5 @@
 
 
-## **EMBEDDED NETWORKING AND COMMUNICATIONS**
-
-## Design and build a wired &/or wireless network connecting at least two processors
-
-## Networking needs to be more clearly defined here.
-
-Like expressing the need to have multiple controllers communicating using addressing.
-
-## * * *
-
-
-## Learning outcomes:
-
-* Demonstrate workflows used in network design and construction
-
-* Implement and interpret networking protocols
-
-**Have you:**
-
-* Described your design and fabrication process using words/images/screenshots.  
-
-* Explained the programming process/es you used.
-
-* Outlined problems and how you fixed them
-
-* Included original design files and code
-
-## * * *
-
-
 ## **INTERFACE AND APPLICATION PROGRAMMING **
 
 ## Write an application that interfaces with an[ input](http://academy.cba.mit.edu/classes/input_devices/index.html) &/or[ output](http://academy.cba.mit.edu/classes/output_devices/index.html) device that you made* * *
