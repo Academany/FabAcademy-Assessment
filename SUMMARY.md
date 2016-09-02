@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [General Essentials](general_essentials.md)
 * [Commercial Board Policy](commercial_board_policy.md)
-* Principles and Practices, Project Management
+* [Principles and Practices, Project Management](principles_and_practices,_project_management.md)
 * Computer-Aided Design
 * Computer-Controlled Cutting
 * Electronics Production
