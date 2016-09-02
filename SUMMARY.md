@@ -5,4 +5,5 @@
 * [Commercial Board Policy](commercial_board_policy.md)
 * Principles and Practices, Project Management
 * Computer-Aided Design
+* Computer-Controlled Cutting
 
