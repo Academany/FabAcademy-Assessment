@@ -11,7 +11,7 @@
 * [Electronics Design](electronics_design.md)
 * [Computer-Controlled Machining](computer-controlled_machining.md)
 * [Embedded Programming](embedded_programming.md)
-* Mechanical Design, Machine Design
+* [Mechanical Design, Machine Design](mechanical_design,_machine_design.md)
 * Input Devices
 * Moulding and Casting
 * Moulding and Casting
