@@ -1,22 +1,14 @@
 # Project Development
-
-
-
-## **PROJECT DEVELOPMENT **
-
-## Complete your final project. Track and document your progress. Create a final project slide in the archive according to the specifications provided.* * *
-
+Complete your final project. Track and document your progress. Create a final project slide in the archive according to the specifications provided.
 
 ## Learning outcomes:
-
 * Evaluate project plan
 
 * Apply time management techniques
 
 * Summarise and communicate the essence of a project
 
-**Have you answered these questions:**
-
+## Have you answered these questions:
 * what is the deadline? How much time do I have left?
 
 * what tasks have been completed, and what tasks remain?
@@ -31,7 +23,8 @@
 
 * what have you learned?
 
-**Have you made a separate ‘Final Project’ page that briefly summarises your project and**
+## Have you made a separate *Final Project* page that:
+* briefly summarises your project
 
 * includes the BOM (Bill of Materials) for your project
 
@@ -43,7 +36,7 @@
 
 * Includes the licence you chose
 
-## Have you made your presentation.png 
+## Have you made your slide: 
 * slide: 1280 x 1024 pixels named presentation.png
 
 * your name
@@ -56,5 +49,5 @@
 
 * a brief description of what your project is/does
 
-## Have you:
+## Have you made your video:
 * made a ~1 minute (10MB/1080p) video of you explaining your project
