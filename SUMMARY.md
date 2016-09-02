@@ -19,4 +19,5 @@
 * Apoplications and Implications
 * Invention, Intellectual Property and Business Models
 * Project Development
+* Electronics Design
 
