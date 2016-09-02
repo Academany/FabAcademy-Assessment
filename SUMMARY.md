@@ -18,7 +18,7 @@
 * [Composites](composites.md)
 * [Embedded Networking and Communications](embedded_networking_and_communications.md)
 * [Interface and Application Programming](interface_and_application_programming.md)
-* Applications and Implications
+* [Applications and Implications](applications_and_implications.md)
 * Invention, Intellectual Property and Business Models
 * Project Development
 
