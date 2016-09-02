@@ -20,4 +20,5 @@
 * Applications and Implications
 * Invention, Intellectual Property and Business Models
 * Project Development
+* Output Devices
 
