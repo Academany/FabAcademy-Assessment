@@ -6,7 +6,7 @@
 * [Principles and Practices, Project Management](principles_and_practices,_project_management.md)
 * [Computer-Aided Design](computer-aided_design.md)
 * [Computer-Controlled Cutting](computer-controlled_cutting.md)
-* Electronics Production
+* [Electronics Production](electronics_production.md)
 * 3D Scanning and Printing
 * Embedded Programming
 * Mechanical Design, Machine Design
