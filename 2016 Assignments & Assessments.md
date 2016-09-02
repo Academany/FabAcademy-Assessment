@@ -10,10 +10,7 @@ Fab Academy 2016 Assignments and Assessment
 
 As you work, check the information for each assignment in this document. Advise your local instructor when you’ve completed assignments so they include your work in their weekly round of assessment. Your local instructor will advise of dates and times of assessments.
 
-## * * *
-
-
-## General essentials:* * *
+## **General essentials:**
 
 
 1. Design files and code must be present in the archive and in the original editable format  (antimony, solidworks, eagle, CAD, etc).
@@ -123,7 +120,8 @@ Learning outcomes:
 
 ## [Design, make, and document a parametric](http://fabacademy.org/archives/2015/students/index.html)[ press-fit construction kit](http://fabacademy.org/archives/2015/students)
 
-## Cut something on the vinyl cutter[  ](http://fabacademy.org/archives/2015/students/index.html)[  ](http://fabacademy.org/archives/2015/students/index.html)
+## Cut something on the vinyl cutter
+[  ](http://fabacademy.org/archives/2015/students/index.html)[  ](http://fabacademy.org/archives/2015/students/index.html)
 
 * * *
 
@@ -207,7 +205,8 @@ Ensure that you have used it in some way during this time and met the objectives
 
 ## 3D SCANNING AND PRINTING
 
-## Test the design rules for your printer(s) (group project)Design and 3D print an object (small, few cm) that could not be made subtractively
+## Test the design rules for your printer(s) (group project)
+Design and 3D print an object (small, few cm) that could not be made subtractively
 
 ## 3D scan an object (and optionally print it)* * *
 
@@ -277,7 +276,8 @@ ELECTRONICS DESIGN (WEEK 1 OF 2)
 
 ## **EMBEDDED PROGRAMING (WEEK 2** OF 2)
 
-## Read a microcontroller[ data sheet](http://academy.cba.mit.edu/classes/embedded_programming/doc8183.pdf)Program your[ board](http://academy.cba.mit.edu/classes/electronics_design/index.html) to do something, with as many different programming languages and programming environments as possible* * *
+## Read a microcontroller[ data sheet](http://academy.cba.mit.edu/classes/embedded_programming/doc8183.pdf)
+Program your[ board](http://academy.cba.mit.edu/classes/electronics_design/index.html) to do something, with as many different programming languages and programming environments as possible* * *
 
 
 ## Learning outcomes:
