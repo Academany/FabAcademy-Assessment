@@ -12,4 +12,3 @@ Make the Fab (tiny)ISP in-circuit programmer.
 * Explained any problems and how you fixed them
 
 * Included a ‘hero shot’ of your board
-
