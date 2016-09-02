@@ -1,11 +1,5 @@
 
 
-
-## Assignments:
-
-## * * *
-
-
 ## PRINCIPLES AND PRACTICES, PROJECT MANAGEMENT
 
 ## Build a[ personal site](http://www.fabacademy.org/archive/courses/index.html) describing you and your final project.
