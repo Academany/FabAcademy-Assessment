@@ -7,4 +7,5 @@
 * Computer-Aided Design
 * Computer-Controlled Cutting
 * Electronics Production
+* 3D Scanning and Printing
 
