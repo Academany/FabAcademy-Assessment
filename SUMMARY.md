@@ -5,7 +5,7 @@
 * [Commercial Board Policy](commercial_board_policy.md)
 * [Principles and Practices, Project Management](principles_and_practices,_project_management.md)
 * [Computer-Aided Design](computer-aided_design.md)
-* Computer-Controlled Cutting
+* [Computer-Controlled Cutting](computer-controlled_cutting.md)
 * Electronics Production
 * 3D Scanning and Printing
 * Embedded Programming
