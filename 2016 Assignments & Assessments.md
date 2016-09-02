@@ -1,26 +1,5 @@
 
 
-
-## **INVENTION, INTELLECTUAL PROPERTY, AND BUSINESS MODELS**
-
-## Create and document a license for your final project. Develop a plan for dissemination of your[ final project](http://academy.cba.mit.edu/classes/applications_implications/index.html)* * *
-
-
-## Learning outcomes:
-
-* Recognise the range of licenses available
-
-* Formulate future opportunities
-
-**Have you:**
-
-* Summarised two kinds of licences and explained why you chose one.
-
-* Dreamed of possibilities and described how to make them probabilities
-
-## * * *
-
-
 ## **PROJECT DEVELOPMENT **
 
 ## Complete your final project. Track and document your progress. Create a final project slide in the archive according to the specifications provided.* * *
