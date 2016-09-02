@@ -1,25 +1,5 @@
 
 
-## Commercial Board Policy* * *
-
-
-Fab Academy is an experience where you can focus on developing your ideas and skills in a unique, hands-on way. Developing custom boards and building on previously Fabbed boards is part of this valuable process. Rather than using commercial boards (arduinos etc) for your final project, you will create your own personal fabduino-type board, by fabbing or modifying one of the existing designs available. If you make it early in the programme, you can troubleshoot and adjust before time becomes tight.
-
-If there is no way you can build your own fabduino, you must speak with your remote guru about this. Please ensure that you actively seek to solve this before it affects your ability to participate in Fab Academy.
-
-## Commercial Board Exemption Process:
-
-![image alt text](image_0.png)
-
-## Using commercial boards can seem simpler in the very short term, but in the medium - long term, custom boards are more flexible and effective as development tools.
-
-### Acceptable use of Commercial Boards
-
-Prefabricated Arduinos can be used only with networked, student-designed shields or connector boards.
-
-### Single board computers: Raspberry Pi, Beaglebone etc
-
-## They are super cheap computers capable of running full operating systems, like Linux and (recently) Windows. These can be used as a substitute for your desktop/laptop.
 
 ## Assignments:
 
