@@ -10,7 +10,7 @@
 * [3D Scanning and Printing](3d_scanning_and_printing.md)
 * [Electronics Design](electronics_design.md)
 * [Computer-Controlled Machining](computer-controlled_machining.md)
-* Embedded Programming
+* [Embedded Programming](embedded_programming.md)
 * Mechanical Design, Machine Design
 * Input Devices
 * Moulding and Casting
