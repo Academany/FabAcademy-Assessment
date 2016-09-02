@@ -14,11 +14,11 @@
 * [Mechanical Design, Machine Design](mechanical_design,_machine_design.md)
 * [Input Devices](input_devices.md)
 * [Moulding and Casting](moulding_and_casting.md)
+* Output Devices
 * Composites
 * Embedded Networking and Communications
 * Interface and Application Programming
 * Applications and Implications
 * Invention, Intellectual Property and Business Models
 * Project Development
-* Output Devices
 
