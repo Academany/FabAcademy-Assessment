@@ -16,7 +16,7 @@
 * [Moulding and Casting](moulding_and_casting.md)
 * [Output Devices](output_devices.md)
 * [Composites](composites.md)
-* Embedded Networking and Communications
+* [Embedded Networking and Communications](embedded_networking_and_communications.md)
 * Interface and Application Programming
 * Applications and Implications
 * Invention, Intellectual Property and Business Models
