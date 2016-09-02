@@ -21,8 +21,8 @@ If you have trouble while building your own fabduino, you must speak with your r
 
 They are super cheap computers capable of running full operating systems, like Linux and (recently) Windows. These can be used as a substitute for your desktop/laptop.
 
-### 
+### Commercial Board Exemption Process
 
-If you think you have a special case where there should be raised an exemtption please talk 
+If you think you have a special case where there should be raised an exemtption please talk to your local or remote guru. The case will be adressed to the Global Evaluation Team for analysis.
 
-In any case remember that Commercial Boards are not evaluated. They are not considered your as work, but a necessary item for your work.
+In any case remember that Commercial Boards are not evaluated. They are not considered as your own work, but a necessary item for your work.
