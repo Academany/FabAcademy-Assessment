@@ -14,4 +14,5 @@
 * Moulding and Casting
 * Moulding and Casting
 * Composites
+* Embedded Networking and Communications
 
