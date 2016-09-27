@@ -12,5 +12,3 @@
 * The base-line evidence/proof/things you need to show what you’ve learnt each week (what you did and how you did it).
 
 As you work, check the information for each assignment in this document. Advise your local instructor when you’ve completed assignments so they include your work in their weekly round of assessment. Your local instructor will advise of dates and times of assessments.
-
--
