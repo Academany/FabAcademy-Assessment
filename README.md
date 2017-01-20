@@ -5,7 +5,7 @@
 
  During Fab Academy, you will learn how to envision, prototype and document your ideas through many hours of hands-on experience with digital fabrication tools. This document outlines:
 
-* The assignments (what you’ll do),
+* The assignments (what you’ll do)
 
 * What we want you to learn each week (why you’re doing it)
 

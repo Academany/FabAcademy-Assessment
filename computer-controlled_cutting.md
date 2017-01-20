@@ -11,7 +11,7 @@
 * Develop, evaluate and construct the final prototype
 
 ### Have you:
-* Explained how you parametrically modeled drew your files
+* Explained how you parametrically designed your files
 
 * Shown how you made your press-fit kit
 

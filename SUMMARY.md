@@ -21,4 +21,4 @@
 * [Applications and Implications](applications_and_implications.md)
 * [Invention, Intellectual Property and Business Models](invention,_intellectual_property_and_business_mode.md)
 * [Project Development](project_development.md)
-
+* [Final Project Requirements](project_requirements.md)
