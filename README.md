@@ -1,7 +1,7 @@
 # Fab Academy Assignments and Assessment
 
 *Created by Anna Kaziunas France & Bas Withagen*  
-*Maintaned by Wendy Neale, Francisco Sanchez & Bas Withagen*
+*Maintaned by Wendy Neale, Emma Pareschi, Francisco Sanchez & Bas Withagen*
 
  During Fab Academy, you will learn how to envision, prototype and document your ideas through many hours of hands-on experience with digital fabrication tools. This document outlines:
 
