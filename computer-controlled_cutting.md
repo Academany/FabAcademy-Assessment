@@ -5,8 +5,7 @@
       make lasercutter test part(s), varying cutting settings and slot dimensions
 *   individual assignment:
       cut something on the vinylcutter
-      design, make, and document a parametric press-fit construction kit,
-         accounting for the lasercutter kerf, which can be assembled in multiple ways
+      design, make, and document a parametric press-fit construction kit, accounting for the lasercutter kerf, which can be assembled in multiple ways
 
 ### Learning outcomes:
 * Demonstrate and describe parametric 2D modelling processes
