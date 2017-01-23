@@ -11,6 +11,4 @@ Redraw the echo hello-world board and add at least a button and LED with current
 
 * Explained problems and how you fixed them
 
-* Done fabbercise today
-
 * Included original design files (Eagle, KiCad, Inkscape, .cad - whatever)

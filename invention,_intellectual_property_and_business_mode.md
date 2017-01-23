@@ -9,4 +9,4 @@ Create and document a license for your final project. Develop a plan for dissemi
 ## Have you:
 * Summarised two kinds of licences and explained why you chose one.
 
-* Dreamed of possibilities and described how to make them probabilities
+* Imagined and outlined possibilities and described how to make them probabilities

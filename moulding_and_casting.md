@@ -11,8 +11,6 @@ Design a 3D mould, machine it, and cast parts from it.
 
 * Shown how you made your mould and cast the parts
 
-* Been surprised today
-
 * Described problems and how you fixed them
 
 * Included your design files and ‘hero shot’ photos of the mould and the final object
