@@ -1,5 +1,5 @@
 # Electronics Production
-Make the Fab (tiny)ISP in-circuit programmer.
+Make the Fab (tiny)ISP in-circuit programmer. Optionally, make your own FTDI cable.
 
 ## Learning outcomes:
 * Describe the process of production and programming
