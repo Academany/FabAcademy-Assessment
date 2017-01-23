@@ -9,6 +9,8 @@ Redraw the echo hello-world board and add at least a button and LED with current
 ## Have you:
 * Shown your process using words/images/screenshots  
 
-* Explained problems and how you fixed them
+* Explained problems and how you fixed them, including how you worked with design rules for milling (DRC in EagleCad and KiCad)
 
 * Included original design files (Eagle, KiCad, Inkscape, .cad - whatever)
+
+* 
