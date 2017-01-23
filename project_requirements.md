@@ -1,4 +1,4 @@
-Congratulations, you have now reached the point of working on your Final Project. The following weeks are an opportunity for you to demonstrate your mastery of the skills you have developed in the previous weeks.
+Congratulations, you have now reached the point of working on your Final Project. The following weeks are an opportunity to demonstrate your mastery of the skills you have developed in the previous weeks.
 
 ## Have you made a separate *Final Project* page that:
 * briefly summarises your project

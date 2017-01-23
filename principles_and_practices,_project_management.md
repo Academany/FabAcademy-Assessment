@@ -4,7 +4,7 @@
 
 * Plan and sketch a potential[ semester project](http://fabacademy.org/archives/2015/students/) and add it to your website.
 
-* Upload it to the class archive. Do a git tutorial.
+* Upload it to the class archive. Work through a git tutorial.
 
 ## Learning outcomes:
 
