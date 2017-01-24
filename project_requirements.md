@@ -1,4 +1,9 @@
-> Congratulations, you have now reached the point of working on your Final Project. The following weeks are an opportunity to demonstrate your mastery of the skills you have developed in the previous weeks.
+> Congratulations, you have now reached the point of working on your Final Project. The following weeks are an opportunity to demonstrate your mastery of the skills you have developed in the previous weeks. Do not buy what you can recycle. Your project must:
+* be your own design
+* include an input device and an output device of your own design
+* include two other digital fabrication processes
+* include 2D and 3D design
+Your goal is to keep it as affordable as possible. Design and fabricate your own parts instead of buying off-the-shelf components.
 
 ## Have you made a separate *Final Project* page that:
 * briefly summarises your project
