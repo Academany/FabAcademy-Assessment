@@ -14,3 +14,4 @@ Redraw the echo hello-world board and add at least a button and LED with current
 * Included original design files (Eagle, KiCad, Inkscape, .cad - whatever)
 
 
+NB.  Also, if you make a board and it doesn't work; franken-hack that board (with jumper wires etc) until it does work, then make a new one with the knowledge you have gained.

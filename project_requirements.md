@@ -1,4 +1,4 @@
-> Congratulations, you have now reached the point of working on your Final Project. The following weeks are an opportunity to demonstrate your mastery of the skills you have developed in the previous weeks. Do not buy what you can recycle. Your project must:
+> Congratulations, you have now reached the point of working on your Final Project. The following weeks are an opportunity to demonstrate your mastery of the skills you have developed in the previous weeks. Your project must:
 * be your own design
 * include an input device and an output device of your own design
 * include two other digital fabrication processes
