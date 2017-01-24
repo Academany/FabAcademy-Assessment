@@ -16,7 +16,9 @@
 
 * includes all of your design files in the archive (no external hosting of final project files - discuss file sizes with your instructor)
 
-* Includes the licence you chose
+* includes the licence you chose
+
+* acknowledges work done by others
 
 ## Have you made your slide: 
 * slide: 1280 x 1024 pixels named presentation.png
