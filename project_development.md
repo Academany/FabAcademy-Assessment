@@ -1,5 +1,5 @@
 # Project Development
-Complete your final project. Track and document your progress. Create a final project slide in the archive according to the specifications provided.
+Complete your final project. Track and document your progress. 
 
 ## Learning outcomes:
 * Evaluate project plan
