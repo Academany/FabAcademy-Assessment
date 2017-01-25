@@ -1,6 +1,7 @@
 # Embedded Programming
 * Read a microcontroller [data sheet](http://academy.cba.mit.edu/classes/embedded_programming/doc8183.pdf).
 * Program your [board](http://academy.cba.mit.edu/classes/electronics_design/index.html) to do something, with as many different programming languages and programming environments as possible.
+* Optionally, experiment with other architectures
 
 
 ## Learning outcomes:
