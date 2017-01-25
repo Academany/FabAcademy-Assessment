@@ -1,5 +1,5 @@
 # Applications and Implications
-Propose a final project that integrates a range of units covered. Projects can be separate or joint, but need to show individual mastery of all of the skills. Where possible, you should make rather than buy the parts of your project.
+Propose a final project that integrates the range of units covered.  
 
 ## Learning outcomes:
 * Define the scope of a project
