@@ -11,7 +11,7 @@
 
 * The base-line evidence/proof/things you need to show what you’ve learnt each week (what you did and how you did it).
 
-Don't rely on a printed document. Check the information for each assignment in this living document each week. 
+> Don't rely on a printed document. Check the information for each assignment in this living document each week. 
 
 Minor changes will be made to this document thoughout Fab Academy, but additions to assessment requirements will only be made to future assignments, not past assignments. 
 
