@@ -2,7 +2,8 @@
 * *be your own design*
 * include an input device and an output device of your own design
 * include components made with two other digital fabrication processes
-* include 2D and 3D design elements  
+* include 2D and 3D design elements
+* have components created using additive and subtractive processes
 
 
 ## Have you made a separate *Final Project* page that:
