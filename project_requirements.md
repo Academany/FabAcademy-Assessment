@@ -1,7 +1,7 @@
 > Congratulations, you have now reached the point of working on your Final Project. The following weeks are an opportunity to demonstrate your mastery of the skills you have developed in the previous weeks. Your goal is to keep it as affordable as possible. Design and fabricate your own parts instead of buying off-the-shelf components. Your project must:
 * *be your own design*
 * include a fabbed input device and an output device of your own design
-* include components created using additive and subtractive processes
+* include other components made with additive and subtractive techniques
 * include 2D and 3D design elements
 
 
