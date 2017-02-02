@@ -1,6 +1,8 @@
 # Electronics Design
 Redraw the echo hello-world board and add at least a button and LED with current-limiting resistor or design your own.
 
+Don't rely on a printed document. As you work, check the information for each assignment in this living document each week.
+
 ## Learning outcomes:
 * Select and use software for circuit board design
 
