@@ -1,5 +1,6 @@
 # Electronics Design
-Redraw the echo hello-world board and add at least a button and LED with current-limiting resistor or design your own.
+Redraw the echo hello-world board, add (at least) a button and LED (with current-limiting resistor), check the design rules, and make it
+      optional: simulate its operation. Measure its operation
 
 > Don't rely on a printed document. Check the information for each assignment in this living document each week.
 
