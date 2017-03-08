@@ -1,5 +1,5 @@
 # Interface and Application Programming
-Write an application that interfaces with an [input](http://academy.cba.mit.edu/classes/input_devices/index.html) and/or [output](http://academy.cba.mit.edu/classes/output_devices/index.html) device **that you made**.
+Write an application that interfaces with an [input](http://academy.cba.mit.edu/classes/input_devices/index.html) and/or [output](http://academy.cba.mit.edu/classes/output_devices/index.html) device **that you made**, comparing as many tool options as possible.
 
 ## Learning outcomes:
 * Interpret and implement design and programming protocols to create a Graphic User Interface (GUI).

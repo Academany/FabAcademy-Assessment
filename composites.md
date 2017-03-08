@@ -1,4 +1,6 @@
 # Composites
+Read the material safety data sheet (MSDS) and technical data sheet (TDS) for the resins that you're using
+      
 Design and make a 3D mould (~ft2 /30x30cm), and produce a fibre composite part in it
 
 ## Learning outcomes:
