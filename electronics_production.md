@@ -1,4 +1,4 @@
-> As outlined in the Commercial Boards policy, fabbing your own boards is an important part of Fab Academy. The 'fabbest' way to do this, is by milling your FR1 boards via Fab Modules or Mods. Although you can experiment with other ways, they are not the default manufacturing method during Fab Academy.
+> As outlined in the Commercial Boards policy, fabbing your own boards is an important part of Fab Academy. The 'fabbest' way to do this, is by milling your FR1 boards via Fab Modules or Mods.
 
 # Electronics Production
 * Make an in-circuit programmer by milling the PCB (program it, so that you can use it to program your board in Electronics Design week, and in other weeks)
