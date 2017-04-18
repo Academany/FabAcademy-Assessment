@@ -19,11 +19,11 @@ Automate your [machine](http://academy.cba.mit.edu/classes/mechanical_design/ind
 ## Have you:
 * Explained your individual contribution to this project on your own website
 
-## On the group page, has your group:
+## On the group page (linked on your Lab page), has your group:
 * Shown how your team planned and executed the project
 
 * Described problems and how the team solved them
 
 * Listed future development opportunities for this project
 
-* Included your design files, ‘hero shot’ photos of the machine and a short video of it operating
+* Included your design files, 1 min video (1920x1080 HTML5 MP4) + slide (1920x1080 PNG) 
