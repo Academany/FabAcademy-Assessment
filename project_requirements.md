@@ -14,7 +14,7 @@
 
 * links to your presentation.png and presentation.mp4
 
-* includes all of your design files in the archive (no external hosting of final project files - discuss file sizes with your instructor)
+* includes all of your design files in the archive (2D & 3D, board files & code) No external hosting of final project files - discuss file sizes with your instructor
 
 * includes the licence you chose
 
