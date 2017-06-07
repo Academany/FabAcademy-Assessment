@@ -13,6 +13,6 @@
 
 > Don't rely on a printed document. Refresh your browser to ensure that you're viewing the most up-to-date information for each assignment in this living document each week.
 
-Minor changes will be made to this document thoughout Fab Academy, but additions to assessment requirements will only be made to future assignments, not past assignments. 
+Minor changes will be made to this document thorough Fab Academy, but additions to assessment requirements will only be made to future assignments, not past assignments. 
 
 Advise your local instructor when you’ve completed assignments so they include your work in their weekly round of assessment. Your local instructor will advise of dates and times of assessments.

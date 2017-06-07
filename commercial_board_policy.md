@@ -13,16 +13,16 @@ If you have trouble while building your own fabduino, you must speak with your r
 ## Acceptable use of Commercial Boards
 
 ### Prefabricated Arduinos
-* These can be used as a extra nodes of a network that you have built, with the purpose of showing the network functionality of one of your fabricated boards. **Networking between just commercial boards is not acceptable.**
+* These can be used as a extra nodes of a network that you have built, with the purpose of showing the network functionality of one of your fabricated boards. [Networking between just commercial boards is not acceptable](embedded_networking_and_communications.md).
 
 * You can use them as a base for your designed shields or connector boards.
 
 ### Single board computers: Raspberry Pi, Beaglebone etc
 
-They are super cheap computers capable of running full operating systems, like Linux and (recently) Windows. These can be used as a substitute for your desktop/laptop.
+They are super cheap computers capable of running full operating systems, like Linux and Windows. These can be used as a substitute for your desktop/laptop.
 
 ### Commercial Board Exemption Process
 
-If you think you have a special case where there should be raised an exemtption please talk to your local or remote guru. The case will be addressed to the Global Evaluation Team for analysis.
+If you think you have a special case where there should be raised an exemption please talk to your local or remote guru. The case will be addressed to the Global Evaluation Team for analysis.
 
 In any case remember that Commercial Boards are not evaluated. They are not considered as your own work, but a necessary item for your work.

@@ -36,9 +36,9 @@
 
 ### Can I store photos and files off the archive?
 > Answer:
-1. No. Photos should be resized and compressed and stored in the archive. See General Essentials.
+1. No. Photos should be resized and compressed and stored in the archive. See [General Essentials](general_essentials.md).
 2. The Global Evaluation team should be able to pull and then assess your work offline.
 
 ### What size should my website be?
 > Answer:
-1. In the order of tens of megabytes. Read the general essentials, compress, resize, etc.
+1. In the order of tens of megabytes. Read the [general essentials](general_essentials.md), compress, resize, etc.

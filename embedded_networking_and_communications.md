@@ -24,7 +24,7 @@ Networking needs to be more clearly defined here. Like expressing the need to ha
 
 ### Can we use arduino/commercial boards for networking?
 > Answer:
-1. It depends on the case: you can use commercial boards for wireless devices. You can’t use Arduino family microcontroller board because they can be made in the fab lab. For this week, you can use the original satcha-kit/fab-kit/fabduino.
+1. It depends on the case: you can use commercial boards for wireless devices. But you can’t use Arduino or similar commercial microcontroller boards because they can be made in the fab lab. For this week, you can use the original satcha-kit/fab-kit/fabduino.
 
 ### Must each board have a unique identity?
 > Answer:

@@ -21,4 +21,4 @@
 
 ### Is it compulsory to do parametric design this week?
 > Answer:
-1. No, but it is next week. So it is a good idea to start learning now.
+1. No, but it is [next week](computer_controlled_cutting.md). So it is a good idea to start learning now.
