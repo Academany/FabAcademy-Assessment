@@ -20,3 +20,15 @@
 
 * Included your code
 
+---
+
+## FAQ:
+
+### If I adjust existing code, is that now my code?
+> Answer:
+1. You must acknowledge whoever made it. See General Essentials.
+2. To succeed in this project, experiment with changing the code, understand how that worked, and write your own.
+
+### How do I prove I've read the Data Sheet?
+> Answer:
+1. Point out things in your code and board design that you learnt from the Data Sheet. Also point to other weeks when you used a Data Sheet.

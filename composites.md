@@ -1,6 +1,6 @@
 # Composites
 Read the material safety data sheet (MSDS) and technical data sheet (TDS) for the resins that you're using
-      
+
 Design and make a 3D mould (~ft2 /30x30cm), and produce a fibre composite part in it
 
 ## Learning outcomes:
@@ -16,3 +16,15 @@ Design and make a 3D mould (~ft2 /30x30cm), and produce a fibre composite part i
 * Included your design files and ‘hero shot’ photos of the mould and the final part
 
 * Read and linked to the material safety data sheet (MSDS) and technical data sheet (TDS) for the resins that you're using
+
+---
+
+## FAQ:
+
+### Does the mould have to be 3D milled?
+> Answer:
+1. No. It could be a torsion box (interlocking and skilfully joined) made on the laser or cnc, or a 3D mould.
+
+### If the composite object is made without vacuum bag/compress/compact, is it acceptable?
+> Answer:
+1. You must prove you can use compression (two molds or vacuum bag) to remove extra resin so you should make some test coupons. (See 2017 composite review video at 1h11)

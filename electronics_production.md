@@ -16,3 +16,11 @@
 * Explained any problems and how you fixed them
 
 * Included a ‘hero shot’ of your board
+
+---
+
+## FAQ:
+
+### Does the FabISP need to work to complete the assignment?
+> Answer:
+1. Yes. Explain ALL the debugging that you did to try to find out problems.

@@ -14,3 +14,15 @@ Make something [big](http://blog.ted.com/2008/07/15/digitally_fabbe/) (on a CNC 
 * Described problems and how you fixed them
 
 * Included your design files and ‘hero shot’ photos of final object
+
+---
+
+## FAQ:
+
+### How big is big?
+> Answer:
+1. Big enough to show you understand many of the possibilities of CNC machining - drill, pocket, dogbones, nesting, etc.
+
+### Does it have to be wood or wood products?
+> Answer:
+1. No. But the lab is only responsible for providing you with a full size wood board. 

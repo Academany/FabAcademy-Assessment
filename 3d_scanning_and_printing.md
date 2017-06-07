@@ -18,3 +18,11 @@
 * Outlined problems and how you fixed them
 
 * Included your design files and ‘hero shot’ photos of the scan and the final object
+
+---
+
+## FAQ:
+
+### Define ‘cannot be made subtractively’
+> Answer:
+1. That cannot be fabricated with 3 axis limitations OR even if it’s possible to make it, it is too complicated.

@@ -17,4 +17,14 @@
 
 7. Final project must meet the basic requirements outlined at the end of this doc.
 
+---
 
+## FAQ:
+
+### I am a continuing student. Am I assessed by 2017 standards?
+> Answer:
+1. Yes. You will be always assessed by the current standards.
+
+### Is it mandatory to use Fab Modules/antimony/other recommended software?
+> Answer:
+1. No. But it is strongly encouraged, since they were designed to make your life easier. Explain why you used other software instead.

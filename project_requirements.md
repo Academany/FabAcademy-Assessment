@@ -20,7 +20,7 @@
 
 * acknowledges work done by others
 
-## Have you made your slide: 
+## Have you made your slide:
 * slide: 1280 x 1024 pixels named presentation.png
 
 * your name
@@ -35,3 +35,20 @@
 
 ## Have you made your video:
 * made a ~1 minute (10MB/1080p) video of you explaining your project
+
+---
+
+## FAQ:
+
+### Can I just design a shield for a commercial board in my final project?
+> Answer:
+1. No. Please check the final project requirements above.
+
+### Can I use the satshakit/fabduino for my final project?
+> Answer:
+1. You have to design your own board(s).
+2. You can use it to program your own input/output devices. Fabricating an unmodified board is considered as electronics production but does not count towards any design skill.
+
+### My final projects electronics is a tangle of wires but it works. So I guess this is it.
+> Answer:
+1. No. Your final project must show integration of the skills beyond early stage prototyping. That includes arranging the wiring, use of connectors, etc.

@@ -1,8 +1,8 @@
 # Computer-Controlled Cutting
 
 ## Laser Cutting
-   
-* make lasercutter test part(s), varying slot dimensions using parametric functions, testing your laser kerf & cutting settings (group project) 
+
+* make lasercutter test part(s), varying slot dimensions using parametric functions, testing your laser kerf & cutting settings (group project)
 
 * cut something on the vinylcutter
 * design, make, and document a parametric press-fit construction kit, accounting for the lasercutter kerf, which can be assembled in multiple ways
@@ -46,3 +46,15 @@ Ensure that you have used it in some way during this time and met the objectives
 * Shown how you made your vinyl project
 
 * Included your design files and photos of your finished project
+
+---
+
+## FAQ:
+
+### Can I use the Inkscape clone tool for my pressfit kit?
+> Answer:
+1. No. The clone tool is not a real parametric software.
+
+### Is it compulsory to design my own file in Vinyl cutting?
+> Answer:
+1. Yes. Or modify existing one, and acknowledge where you found it.

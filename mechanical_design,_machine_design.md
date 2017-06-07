@@ -26,4 +26,12 @@ Automate your [machine](http://academy.cba.mit.edu/classes/mechanical_design/ind
 
 * Listed future development opportunities for this project
 
-* Included your design files, 1 min video (1920x1080 HTML5 MP4) + slide (1920x1080 PNG) 
+* Included your design files, 1 min video (1920x1080 HTML5 MP4) + slide (1920x1080 PNG)
+
+---
+
+## FAQ:
+
+### Does we have to design new boards for this?
+> Answers:
+1. No. You can use the gestalt or other existing commercial boards.
