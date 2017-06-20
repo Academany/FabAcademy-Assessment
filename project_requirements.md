@@ -3,6 +3,8 @@
 * include a fabbed input device and an output device of your own design
 * include other components made with additive and subtractive techniques
 * include 2D and 3D design elements
+Development of a group final project:
+Each student in the group must prove mastery of the skills gained during the program, as above.
 
 
 ## Have you made a separate *Final Project* page that:
@@ -52,3 +54,11 @@
 ### My final projects electronics is a tangle of wires but it works. So I guess this is it.
 > Answer:
 1. No. Your final project must show integration of the skills beyond early stage prototyping. That includes arranging the wiring, use of connectors, etc.
+
+### How do we present a Group Project?
+> Answer:
+1. Each student will make a specific slide that shows it's a group project (names the project and the other collaborator/s) and details the parts developed by the individual
+2. Each student will make a specific video that will have some shared content, but mainly shows the parts developed by the individual
+   
+    
+
