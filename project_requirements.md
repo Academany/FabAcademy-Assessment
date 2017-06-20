@@ -3,7 +3,8 @@
 * include a fabbed input device and an output device of your own design
 * include other components made with additive and subtractive techniques
 * include 2D and 3D design elements
-Development of a group final project:
+
+> Development of a group final project:
 Each student in the group must prove mastery of the skills gained during the program, as above.
 
 
