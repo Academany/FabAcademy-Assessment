@@ -1,11 +1,9 @@
-> Congratulations, you have now reached the point of working on your Final Project. The following weeks are an opportunity to demonstrate your mastery of the skills you have developed in the previous weeks. Your goal is to keep it as affordable as possible. Design and fabricate your own parts instead of buying off-the-shelf components. Your project must:
-* *be your own design*
-* include a fabbed input device and an output device of your own design
-* include other components made with additive and subtractive techniques
-* include 2D and 3D design elements
+> Congratulations, you have now reached the point of working on your Final Project. This is the opportunity to demonstrate synthesis of skills you have developed in the previous weeks. Your goal is to keep it as affordable as possible. Design and fabricate your own parts instead of buying off-the-shelf components. Each student, whether working individually or in a group, must prove mastery of the skills gained during the program.
 
-> Development of a group final project:
-Each student in the group must prove mastery of the skills gained during the program, as above.
+## Learning Outcomes:
+* demonstrate 2D & 3D modelling capabilities applied to your own designs
+* select and apply appropriate additive and subtractive techniques
+* demonstrate competence in design, fabrication and programming of your own fabbed microcontroller PCB, including and input & output device
 
 
 ## Have you made a separate *Final Project* page that:

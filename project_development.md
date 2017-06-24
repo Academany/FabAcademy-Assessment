@@ -1,5 +1,9 @@
 # Project Development
-Complete your final project. Track and document your progress. 
+Complete your final project. 
+
+>Please see  Final Project Requirements for details.
+
+Track and document your progress.
 
 ## Learning outcomes:
 * Evaluate project plan
