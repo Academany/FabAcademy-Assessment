@@ -2,7 +2,9 @@
 
 ## Learning Outcomes:
 * demonstrate 2D & 3D modelling capabilities applied to your own designs
+
 * select and apply appropriate additive and subtractive techniques
+
 * demonstrate competence in design, fabrication and programming of your own fabbed microcontroller PCB, including and input & output device
 
 
@@ -15,7 +17,7 @@
 
 * links to your presentation.png and presentation.mp4
 
-* includes all of your design files in the archive (2D & 3D, board files & code) No external hosting of final project files - discuss file sizes with your instructor
+* includes all of your original design files in the archive (2D & 3D, board files & code) No external hosting of final project files - discuss file sizes with your instructor
 
 * includes the licence you chose
 
@@ -43,7 +45,7 @@
 
 ### Can I just design a shield for a commercial board in my final project?
 > Answer:
-1. No. Please check the final project requirements above.
+1. No. Please check the learning outcomes above.
 
 ### Can I use the satshakit/fabduino for my final project?
 > Answer:
