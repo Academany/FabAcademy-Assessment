@@ -54,7 +54,7 @@
 
 ### What does 'original design files' mean?
 > Answer:
-1. That you designed/modified them. They are ones that you made or modified. If you modified them into something new, acknowledge where they came from and, point out what you did to change them.   
+1. That you designed/modified them. They are ones that you made or modified to change they way they worked. If you modified them into something new, acknowledge where they came from and, point out what you did to change them.    
 2. This is slightly different than files in the 'orginal editable format', check [General Essentials](general_essentials.md).  
     
 

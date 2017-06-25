@@ -23,6 +23,6 @@ They are super cheap computers capable of running full operating systems, like L
 
 ### Commercial Board Exemption Process
 
-If you think you have a special case where there should be raised an exemption please talk to your local or remote guru. The case will be addressed to the Global Evaluation Team for analysis.
+If you think you have a special case where there should be raised an exemption please talk to your local or remote guru. The case will be addressed to the Global Evaluation Team for analysis - please see the above graphic showing the process.
 
 In any case remember that Commercial Boards are not evaluated. They are not considered as your own work, but a necessary item for your work.

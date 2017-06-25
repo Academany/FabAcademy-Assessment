@@ -1,5 +1,6 @@
 # Applications and Implications
 Propose a final project that integrates the range of units covered.  
+> see [Final Project Requirements](project_requirements.md) for details. 
 
 ## Learning outcomes:
 * Define the scope of a project
