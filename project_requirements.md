@@ -38,7 +38,7 @@
 
 ### Can I just design a shield for a commercial board in my final project?
 > Answer:
-1. No. Please check the learning outcomes above.
+1. No. Please check the learning outcomes above. See [Commercial Boards Policy](commercial_board_policy.md).
 
 ### Can I use the satshakit/fabduino/raspberry pi for my final project?
 > Answer:
