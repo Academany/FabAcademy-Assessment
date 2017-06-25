@@ -44,7 +44,7 @@
 > Answer:
 1. You have to design your own board(s).
 2. You can use it to program your own input/output devices. Fabricating an unmodified board is considered as electronics production but does not count towards any design skill.
-3. See [General Essentials](general_essentials.md).
+3. You can only use a Raspberry Pi instead of a laptop. See [Commercial Boards Policy](commercial_board_policy.md).
 
 ### My final projects electronics is a tangle of wires but it works. So I guess this is it.
 > Answer:
