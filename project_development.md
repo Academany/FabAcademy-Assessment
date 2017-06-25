@@ -1,7 +1,7 @@
 # Project Development
 Complete your final project. 
 
->Please see  Final Project Requirements for details.
+>Please see [Final Project Requirements](project_requirements.md) for details.
 
 Track and document your progress.
 
