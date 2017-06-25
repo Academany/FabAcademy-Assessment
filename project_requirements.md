@@ -7,10 +7,10 @@
 
 * demonstrate competence in design, fabrication and programming of your own fabbed microcontroller PCB, including an input & output device
 
-> This page probably looks different than when you last looked. **Don't panic** The content is still the same, it has only been reformatted for consistancy and for the webapp. Keep up the good work!
+> This page probably looks different than when you last looked. **Don't panic!** The content is still the same, it has only been reformatted for consistancy and for the webapp. Keep up the good work!
 
 ## Have you:
-* made your **slide**: 1280 x 1024 pixels named presentation.png with your name, the name of your project, the name of the Fab Lab, a photo/render/sketch of your project, a brief description of what your project is/does
+* made your **slide**: 1280 x 1024 pixels with your name, project name, Fab Lab name, a photo/render/sketch of your project, a brief description of what your project is/does
 
 * made a ~1 minute (10MB/1080p/720p) **video** of you explaining your project
 
@@ -51,6 +51,10 @@
 > Answer:
 1. Each student will make a specific slide that shows it's a group project (names the project and the other collaborator/s) and details the parts developed by the individual
 2. Each student will make a specific video that will have some shared content, but mainly shows the parts developed by the individual
-   
+
+### What does 'original design files' mean?
+> Answer:
+1. That you designed/modified them. They are ones that you made or modified. If you modified them into something new, acknowledge where they came from and, point out what you did to change them.   
+2. This is slightly different than files in the 'orginal editable format', check [General Essentials](general_essentials.md).  
     
 
