@@ -1,6 +1,8 @@
-> Congratulations, you have now reached the point of working on your Final Project. This is the opportunity to demonstrate synthesis of skills you have developed in the previous weeks. Your goal is to keep it as affordable as possible. Design and fabricate your own parts instead of buying off-the-shelf components. Each student, whether working individually or in a group, must prove mastery of the skills gained during the program.
+> Congratulations, you have reached the point of working on your Final Project. This is your opportunity to demonstrate synthesis of skills you developed in the previous weeks. Your goal is to keep it as affordable as possible. Design and fabricate your own parts instead of buying off-the-shelf components. Each student, whether working individually or in a group, must prove mastery of the skills gained during the program.
 
 ## Learning Outcomes:
+* create your own integrated design
+
 * demonstrate 2D & 3D modelling capabilities applied to your own designs
 
 * select and apply appropriate additive and subtractive techniques
@@ -54,7 +56,7 @@
 
 ### What does 'original design files' mean?
 > Answer:
-1. That you designed/modified them. They are ones that you made or modified to change they way they worked. If you modified them into something new, acknowledge where they came from and, point out what you did to change them.    
+1. That you designed/modified them. They are ones that you made or evolved to change they way they worked. If you evolved them into something new, acknowledge where they came from and, point out what you did to change them. Pay attention to the license that they used, acknowledge it and do not breach it. This may affect the licence you can choose for your project.     
 This is slightly different than files in the 'orginal editable format', check [General Essentials](general_essentials.md).  
     
 
