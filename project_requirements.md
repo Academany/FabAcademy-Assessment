@@ -7,13 +7,14 @@
 
 * demonstrate competence in design, fabrication and programming of your own fabbed microcontroller PCB, including an input & output device
 
+> This page probably looks different than when you last looked. **Don't panic** The content is still the same, it has only been reformatted for consistancy and for the webapp. Keep up the good work!
 
 ## Have you:
-* made your *slide*: 1280 x 1024 pixels named presentation.png with your name, the name of your project, the name of the Fab Lab, a photo/render/sketch of your project, a brief description of what your project is/does
+* made your **slide**: 1280 x 1024 pixels named presentation.png with your name, the name of your project, the name of the Fab Lab, a photo/render/sketch of your project, a brief description of what your project is/does
 
-* made a ~1 minute (10MB/1080p/720p) *video* of you explaining your project
+* made a ~1 minute (10MB/1080p/720p) **video** of you explaining your project
 
-* made a separate *Final Project page* that briefly summarises your project _and_
+* made a separate **Final Project page** that briefly summarises your project _and_
 
 * included the BOM (Bill of Materials) for your project
 
