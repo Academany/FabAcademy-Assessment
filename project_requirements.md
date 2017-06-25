@@ -40,10 +40,11 @@
 > Answer:
 1. No. Please check the learning outcomes above.
 
-### Can I use the satshakit/fabduino for my final project?
+### Can I use the satshakit/fabduino/raspberry pi for my final project?
 > Answer:
 1. You have to design your own board(s).
 2. You can use it to program your own input/output devices. Fabricating an unmodified board is considered as electronics production but does not count towards any design skill.
+3. See [General Essentials](general_essentials.md).
 
 ### My final projects electronics is a tangle of wires but it works. So I guess this is it.
 > Answer:
@@ -56,7 +57,8 @@
 
 ### What does 'original design files' mean?
 > Answer:
-1. That you designed/modified them. They are ones that you made or evolved to change they way they worked. If you evolved them into something new, acknowledge where they came from and, point out what you did to change them. Pay attention to the license that they used, acknowledge it and do not breach it. This may affect the licence you can choose for your project.     
+1. That you designed/modified them. They are ones that you made or evolved to change they way they worked. If you evolved them into something new, acknowledge where they came from and, point out what you did to improve them. Pay attention to the license that they used, acknowledge it and do not breach it. This may affect the licence you can choose for your project.     
 This is slightly different than files in the 'orginal editable format', check [General Essentials](general_essentials.md).  
-    
+
+
 
