@@ -41,4 +41,4 @@
 
 ### What size should my website be?
 > Answer:
-1. In the order of tens of megabytes. Read the [general essentials](general_essentials.md), compress, resize, etc.
+1. In the order of tens of megabytes. Read the [General Essentials](general_essentials.md), compress, resize, etc.

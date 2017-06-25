@@ -3,8 +3,6 @@ Redraw the echo hello-world board, add (at least) a button and LED (with current
 
 _optional: simulate its operation. Measure its operation_
 
-> Don't rely on a printed document. Refresh your browser to ensure that you're viewing the most up-to-date information for each assignment in this living document each week.
-
 ## Learning outcomes:
 * Select and use software for circuit board design
 
