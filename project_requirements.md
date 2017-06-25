@@ -57,7 +57,7 @@
 
 ### What does 'original design files' mean?
 > Answer:
-1. That you designed or modified them significantly. They are ones that you made or evolved to change the way they work. If you evolved them into something new, acknowledge where they came from and, point out what you did *to improve them*. Pay attention to the original license that is used, and do not breach it. This may affect the licence you can choose for your final project. Look at it all, but pay particular attention to #37 in [Bruce Mau's Incomplete Manifesto](http://www.manifestoproject.it/bruce-mau/). 
+1. That you designed or modified them significantly. They are ones that you made or evolved to change the way they work. If you evolved them into something new, acknowledge where they came from and, point out what you did *to improve them*. Pay attention to the original license that is used, and do not breach it. This may affect the licence you can choose for your final project. Read it all, but pay particular attention to #3, #23, #29, #35 & #37 in [Bruce Mau's Incomplete Manifesto](http://www.manifestoproject.it/bruce-mau/). 
 This is slightly different than files in the 'orginal editable format', check [General Essentials](general_essentials.md).  
 
 
