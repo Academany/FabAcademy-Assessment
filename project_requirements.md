@@ -5,39 +5,29 @@
 
 * select and apply appropriate additive and subtractive techniques
 
-* demonstrate competence in design, fabrication and programming of your own fabbed microcontroller PCB, including and input & output device
+* demonstrate competence in design, fabrication and programming of your own fabbed microcontroller PCB, including an input & output device
 
 
-## Have you made a separate *Final Project* page that:
-* briefly summarises your project
+## Have you:
+* made your *slide*: 1280 x 1024 pixels named presentation.png with your name, the name of your project, the name of the Fab Lab, a photo/render/sketch of your project, a brief description of what your project is/does
 
-* includes the BOM (Bill of Materials) for your project
+* made a ~1 minute (10MB/1080p/720p) *video* of you explaining your project
 
-* links to any weeks that you worked on your final project
+* made a separate *Final Project page* that briefly summarises your project _and_
 
-* links to your presentation.png and presentation.mp4
+* included the BOM (Bill of Materials) for your project
 
-* includes all of your original design files in the archive (2D & 3D, board files & code) No external hosting of final project files - discuss file sizes with your instructor
+* linked from this page to any weeks that you worked on your final project
 
-* includes the licence you chose
+* linked to your presentation.png and presentation.mp4
 
-* acknowledges work done by others
+* included all of your original design files in the archive (2D & 3D, board files & code) No external hosting of final project files - discuss file sizes with your instructor
 
-## Have you made your slide:
-* slide: 1280 x 1024 pixels named presentation.png
+* included the licence you chose
 
-* your name
+* acknowledged work done by others
 
-* the name of your project
 
-* the name of the Fab Lab
-
-* photo/render/sketch of your project
-
-* a brief description of what your project is/does
-
-## Have you made your video:
-* made a ~1 minute (10MB/1080p/720p) video of you explaining your project
 
 ---
 
