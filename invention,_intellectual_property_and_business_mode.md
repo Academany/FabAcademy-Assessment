@@ -12,3 +12,12 @@ Prepare a summary slide (presentation.png, 1280x1024) and video clip (presentati
 * Summarised two kinds of licences and explained why you chose one.
 
 * Imagined and outlined possibilities and described how to make them probabilities
+
+---
+
+## FAQ:
+
+### What does 'summarised two kinds of licence' mean?
+> Answer:
+1. To show that you understand Neil's lecture, and what your licence is for, you need to compare licences so that you can choose the correct one for you.
+2. You can compare two kinds of Open Licences, or compare two options for one kind of Open Licence. Or more...two is the minimum. 
