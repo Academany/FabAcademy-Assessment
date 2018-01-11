@@ -1,6 +1,6 @@
 # Principles and Practices
 
-* Plan and sketch a potential[final project](http://fabacademy.org/archives/2015/students/).
+* Plan and sketch a potential [final project](http://fabacademy.org/archives/2015/students/).
 
 
 ## Learning outcomes:  

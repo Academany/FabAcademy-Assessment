@@ -1,6 +1,6 @@
 # General essentials
 
-> Imagine that one day you need to reproduce all of your assignments. You have no internet (except fab modules | Mods), no-one is able to help you. You have only your fab academy archive folder and the resources within the fab lab. Ensure that you have documented everything in enough detail in your archive so that you can do this easily.
+> Imagine that one day you need to reproduce all of your assignments. You have no internet, no-one is able to help you. You have only your fab academy archive folder and the resources within the fab lab. Ensure that you have documented everything in enough detail in your archive so that you can do this easily.
 
 
 1. Design files and code must be present in the archive in generically readable forms such as DXFs, STLs, etc., as well as in the original editable format (antimony, solidworks, eagle, CAD, etc).
@@ -21,7 +21,7 @@
 
 ## FAQ:
 
-### I am a continuing student. Am I assessed by 2017 standards?
+### I am a continuing student. Am I assessed by this cycle's standards?
 > Answer:
 1. Yes. You will be always assessed by the current standards.
 
