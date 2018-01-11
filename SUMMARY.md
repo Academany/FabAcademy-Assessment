@@ -16,7 +16,7 @@
 * [Output Devices](output_devices.md)
 * [Moulding and Casting](moulding_and_casting.md)
 * [Input Devices](input_devices.md)
-* [Wildcard Week](composites.md)
+* [Wildcard Week](wildcard_week.md)
 * [Embedded Networking and Communications](embedded_networking_and_communications.md)
 * [Interface and Application Programming](interface_and_application_programming.md)
 * [Applications and Implications](applications_and_implications.md)
