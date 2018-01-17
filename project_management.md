@@ -8,7 +8,7 @@
 
 * Explore and use website development tools   
 
-* Identify version control protocols
+* Identify and utilise version control protocols
 
 ## Have you:
 

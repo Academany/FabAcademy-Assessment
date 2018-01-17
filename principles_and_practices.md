@@ -6,12 +6,13 @@
 
 ## Learning outcomes:  
 
-* Formulate a final project proposal
+* Communicate an initial project proposal
 
 
 ## Have you:
 
-* described and made a sketch of your final project
+* sketched your final project idea/s
+* described what it will do and who will use it 
 
 
 ---
