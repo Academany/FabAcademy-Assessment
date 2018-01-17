@@ -1,5 +1,4 @@
 # Input Devices
-> The second half of the Fab Academy programme is designed to build on the previous weeks. You will be synthesising information and implementing skills that you were introduced to in the first half of the programme and encouraged to integrate these into your final project proposal.
 
 Measure something: add a sensor to a microcontroller board that you have designed and read it.
 

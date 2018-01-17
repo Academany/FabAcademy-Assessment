@@ -1,4 +1,6 @@
 # Output Devices
+> The second half of the Fab Academy programme is designed to build on the previous weeks. You will be synthesising information and implementing skills that you were introduced to in the first half of the programme and encouraged to integrate these into your final project proposal.
+
 Add an output device to a microcontroller board you've designed and program it to do something
 
 ## Learning outcomes:
